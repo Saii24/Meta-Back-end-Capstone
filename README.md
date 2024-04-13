@@ -12,7 +12,6 @@ Building RESTful APIs using [Django Rest Framework](https://www.django-rest-fram
 </p>
 META Back-End Developer Course Capstone Project implemented by Sayali Karad.
 
-Please, see Readme.txt file for review process in Week4 of the course.
 
 ## Steps to run the app
 
